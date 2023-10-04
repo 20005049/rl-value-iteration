@@ -88,7 +88,7 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
-![Screenshot (576)](https://github.com/kumaranricky/rl-value-iteration/assets/75243072/a0cac6f7-165b-4beb-a287-21b2fb89ea03)
+![image](https://github.com/Prasannakumar019/rl-value-iteration/assets/75235090/49037c86-c508-4675-9570-d404cf9c490e)
 
 
 ## RESULT:
